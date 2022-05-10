@@ -1,0 +1,28 @@
+.container{
+    width: 35%;
+    height: 50%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.row{
+    margin-right: 2px;
+    margin-left: 2px;
+}
+
+.html{
+    color: #9BCF7E;
+}
+
+.h1{
+    color: #5CDE02
+}
+
+.li{
+    color: #399CFF;
+}
+
+.a{
+    color: #FFAF3B
+}
